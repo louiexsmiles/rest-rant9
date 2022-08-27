@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\controllers",
+    "\\models",
+    "\\seeders",
+    "\\views",
+    "\\views\\places"
+  ],
+  "SelectedNode": "\\controllers\\places.js",
+  "PreviewInSolutionExplorer": false
+}
